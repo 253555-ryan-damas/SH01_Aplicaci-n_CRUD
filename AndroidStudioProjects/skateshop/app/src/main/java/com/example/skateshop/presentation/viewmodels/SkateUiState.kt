@@ -1,4 +1,4 @@
-package com.example.skateshop.presentation.screens
+package com.example.skateshop.presentation.viewmodels
 
 import com.example.skateshop.data.model.ProductoSkate
 

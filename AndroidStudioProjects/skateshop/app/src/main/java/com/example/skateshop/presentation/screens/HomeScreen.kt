@@ -10,6 +10,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.example.skateshop.presentation.viewmodels.SkateUiState
 import com.example.skateshop.presentation.viewmodels.SkateViewModel
 
 @Composable
